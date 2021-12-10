@@ -4,7 +4,7 @@ title: "Pearl_Fall"
 description: "Pearl_Fall blog for daily records"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /
+baseurl: '/pearl_fall'
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
